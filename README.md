@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning HTML and CSS3
 - 📫 How to reach me: @Zelbi.Chaves
-- ⚡ Fun fact: Music >>>>>
+- ⚡ Currently, I am an undergraduate student in Electrical and Computer Engineering.
 
 ##
 
